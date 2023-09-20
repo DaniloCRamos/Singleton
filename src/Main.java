@@ -8,4 +8,5 @@ public class Main {
         impressao1.setComentario("TESTE");
         System.out.println(impressao2.getComentario());
     }
+    //mudança so para aparecer o nome certo
 }
